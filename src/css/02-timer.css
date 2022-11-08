@@ -1,0 +1,36 @@
+input {
+    width: 270px;
+    height: 30px;
+
+    margin-left: 25px;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+}
+
+.timer {
+    display: flex;
+    padding-top: 35px;
+}
+
+.value {
+    padding-left: 25px;
+    font-size: 40;
+}
+
+.label {
+    display: flex;
+    padding-left: 30px;
+    font-size: 17;
+}
+
+.field {
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+
+
